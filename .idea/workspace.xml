@@ -18,8 +18,12 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/xfz/front/templates/news/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="286">
-                  <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+                <state relative-caret-position="132">
+                  <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+                  <folding>
+                    <element signature="n#head#0;n#html#0;n#!!top" />
+                    <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -28,7 +32,7 @@
             <entry file="file://$PROJECT_DIR$/xfz/front/src/css/index.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="234">
-                  <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+                  <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
                 </state>
               </provider>
             </entry>
@@ -40,8 +44,11 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/xfz/front/src/css/index.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="322">
-                  <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+                <state relative-caret-position="336">
+                  <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#86#1125#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -86,8 +93,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="526" />
-    <option name="y" value="164" />
+    <option name="x" value="567" />
+    <option name="y" value="163" />
     <option name="width" value="1320" />
     <option name="height" value="825" />
   </component>
@@ -205,15 +212,15 @@
       <option name="presentableId" value="Default" />
       <updated>1561126819243</updated>
       <workItem from="1561126821089" duration="3009000" />
-      <workItem from="1561200161445" duration="12759000" />
+      <workItem from="1561200161445" duration="14681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15768000" />
+    <option name="totallyTimeSpent" value="17690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="526" y="164" width="1320" height="825" extended-state="0" />
+    <frame x="567" y="163" width="1320" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11930926" />
@@ -276,15 +283,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xfz/front/templates/news/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="132">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xfz/front/src/css/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        <state relative-caret-position="336">
+          <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+          <folding>
+            <element signature="e#86#1125#0" />
+          </folding>
         </state>
       </provider>
     </entry>
